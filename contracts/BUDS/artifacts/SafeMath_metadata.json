@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/BUDS/BUDS.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/BUDS/BUDS.sol": {
+			"keccak256": "0xff7589472a659dc3c3796c2e1e1119b265b1c241883d4e0298f942681cfcc2f2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://77030f29678c43f80d4dbb82a24c49bfd499644d6f4f764b17fbc2ca271eb942",
+				"dweb:/ipfs/QmQx6xTno6bEog8L6rtsQEsYF8gbDijSevx7XBEDJacYk2"
+			]
+		}
+	},
+	"version": 1
+}

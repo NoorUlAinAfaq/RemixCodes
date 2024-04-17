@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/mineableCoin.sol": "ExtendedMath"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/mineableCoin.sol": {
+			"keccak256": "0x6f01b5851d8262e989e6cf522ab4c881c70a427faac9f9e40faefd3f30794da6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2b55ef33096fb65bb0d80a6d8637c2e9032c1eaf4cbc02a6244d30110ff38530",
+				"dweb:/ipfs/QmPVhNiFkGoM1Kfyq4iKiJwLsKzpep3tNSfEps4KhwKjX4"
+			]
+		}
+	},
+	"version": 1
+}

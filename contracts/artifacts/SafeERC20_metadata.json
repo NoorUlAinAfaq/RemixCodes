@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/tauqeer.sol": "SafeERC20"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/tauqeer.sol": {
+			"keccak256": "0x616c724167275369497c6f905fc8a0276c4fd3a591562e496e9234f7f2985be0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6e562e3cde1e88b95ec385f82ccda41a86277b91d1c5332281e0b2173cd8468f",
+				"dweb:/ipfs/QmXFPc7AicD1gZaVLy5TvbRswqK2pwaGZRuyrMykYkQaCZ"
+			]
+		}
+	},
+	"version": 1
+}

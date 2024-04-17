@@ -1,0 +1,106 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "tname",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "tsymbol",
+						"type": "string"
+					},
+					{
+						"internalType": "uint8",
+						"name": "tdecimals",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "decimals",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "symbol",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/tauqeer.sol": "BEP20Detailed"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/tauqeer.sol": {
+			"keccak256": "0xb93a7d907678649692077fe5c8eef17b2200a0c3590c065f2b6bc38e02d4b657",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://060034bfe28674860fc8b9ecb29d91ef961782e0c9a07cf4b43c9ccb313aeab5",
+				"dweb:/ipfs/QmNZmZ4xrwiEQF8QrpSeHewCgE1AXzbcM4xoYZfigvYGdp"
+			]
+		}
+	},
+	"version": 1
+}
